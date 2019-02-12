@@ -11,10 +11,6 @@ library(ncdf4)
 library(cruts)
 library(tidyverse)
 
-
-## set wd
-setwd("~/Desktop/Simon/Gschool/Data/R data")
-
 wd <- "cru_ts4.02.1901.2017.tmp.dat.nc"
 
 tmp <- nc_open(wd, write=FALSE, readunlim=TRUE, verbose=FALSE, auto_GMT=TRUE, suppress_dimvals=FALSE )
