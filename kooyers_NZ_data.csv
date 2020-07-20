@@ -1,0 +1,16 @@
+Pop #,Transect,Population ,Latitude,Longitude,Minimum Winter Temperature,Elevation,N,Freq(AcLi),Freq (Ac),Freq (Li),N
+NZ42,New Zealand,Oamaru,-45.08028,170.97893,1.6,11,15,0.267,0.553,0.27,5
+NZ43,New Zealand,Oamaru,-45.08703,170.97448,1.6,13,14,0.357,0.402,0.345,5
+NZ44,New Zealand,Oamaru,-45.11112,170.97195,1.2,86,15,0.267,0.368,0.317,5
+NZ24,New Zealand,Fairlie,-44.09953,170.82992,0,280,13,0.385,0.445,0.266,5
+NZ25,New Zealand,Fairlie,-44.10503,170.79657,-0.3,331,14,0.571,0.733,0.345,5
+NZ26,New Zealand,Fairlie,-44.10147,170.82433,-0.1,291,13,0.462,0.321,0.723,5
+NZ45,New Zealand,Timaru,-44.38395,171.23948,1.3,0,15,0.2,0.635,0.106,5
+NZ22,New Zealand,Timaru,-44.38735,171.23948,1.3,0,13,0.692,0.52,0.723,5
+NZ23,New Zealand,Timaru,-44.40013,171.24985,1.3,10,15,0.333,0.423,0.317,5
+NZ21,New Zealand,Christchurch,-43.51503,172.71405,1.9,4,15,0.533,0.553,0.423,5
+NZ10,New Zealand,Christchurch,-43.48688,172.58365,1.8,19,17,0.706,0.515,0.58,5
+NZ11,New Zealand,Christchurch,-43.5338,172.62227,1.8,11,13,0.615,0.52,0.445,5
+NZ12,New Zealand,Springfield,-43.3345,171.93092,0.2,390,14,0.429,0.465,0.345,5
+NZ13,New Zealand,Springfield,-43.33773,171.93032,0.2,390,15,0.467,0.553,0.423,5
+NZ14,New Zealand,Springfield,-43.33077,171.92797,0.2,390,13,0.769,0.723,0.608,5

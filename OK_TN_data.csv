@@ -1,0 +1,17 @@
+Population,Subpopulation Name,Latitude,Longitude,Annual Aridity Index,Annual Precipitation (mm),Minimum Winter Temperature,Total Plants,AcLi,Acli,acLi,acli,Freq. (AcLi),Freq. (Ac),Freq. (Li)
+"Memphis, TN",John F. Kennedy Park,35.19388,-89.91173,1.0303,1290,-1.2,20,10,3,3,4,0.5,0.41,0.41
+"Memphis, TN",Yale Ave. parks,35.21735,-89.84037,1.0383,1299,-1.3,20,20,0,0,0,1,1,1
+"Memphis, TN",Pickett Park,35.23112,-89.9774,1.0296,1283,-1.4,20,7,2,7,4,0.35,0.26,0.45
+"Memphis, TN",Pep Marquette Park,35.10512,-89.89633,1.0358,1299,-1.1,21,13,0,4,4,0.62,0.38,0.56
+"Little Rock, AR",Burns Park,34.80186667,-92.30163333,0.9642,1263,-1.2,19,11,4,2,2,0.58,0.54,0.44
+"Little Rock, AR",Riverview Park,34.76956667,-92.29773333,0.9657,1261,-1.3,19,7,3,4,5,0.37,0.31,0.35
+"Little Rock, AR",Reservoir Park,34.77233333,-92.3697,0.9885,1298,-1.3,20,9,3,3,5,0.45,0.37,0.37
+"Little Rock, AR",Murray Park,34.78505,-92.33503333,0.9481,1262,-1.4,19,13,4,1,1,0.68,0.68,0.49
+"Fort Smith, AR",Fort Smith Park,35.4325,-94.37283333,0.8466,1148,-3,13,11,1,0,1,0.85,0.72,0.61
+"Fort Smith, AR",Van Buren Municipal Park,35.44988333,-94.34503333,0.861,1159,-3,20,7,2,5,6,0.35,0.26,0.51
+"Fort Smith, AR",Carol Ann Cross Park ,35.36595,-94.35023333,0.8428,1137,-2.8,18,7,4,3,4,0.39,0.38,0.51
+"Fort Smith, AR",Ben Geren Park,35.32115,-94.35468333,0.8252,1120,-2.8,20,6,8,4,2,0.3,0.45,0.45
+"Oklahoma City, OK",Hafer Park,35.64611667,-97.4591,0.6481,842,-3.4,20,13,6,0,1,0.65,0.78,0.41
+"Oklahoma City, OK",Edwards Park,35.48396667,-97.46003333,0.6573,847,-3.1,18,13,2,2,1,0.72,0.59,0.59
+"Oklahoma City, OK",Ray Trent park,35.45386667,-97.43705,0.6578,844,-3,20,14,1,5,0,0.7,0.5,0.78
+"Oklahoma City, OK",Lincoln Park,35.51841667,-97.47546667,0.6504,841,-3.1,20,14,5,1,0,0.7,0.78,0.5
