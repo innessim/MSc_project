@@ -142,7 +142,7 @@ DATA-SPECIFIC INFORMATION FOR: "AllCities_AllPlants.csv"
 	HCN_Result: Presence or absence of HCN production (1 = present; 0 = absent) \
 	Locus.Li: Presence or absence of dominant Li allele (1 = present; 0 = absent) \
 	Locus.Ac: Presence or absence of dominant Ac allele (1 = present; 0 = absent) \
-	Dmg.1: Estimate of herbivory damage on first leaf (not sued in this study) \
+	Dmg.1: Estimate of herbivory damage on first leaf (not used in this study) \
 	Dmg.2: Estimate of herbivory damage on second leaf (not used in this study) \
 	Dmg.avg: Average of estimated herbivory damage on both leaves (not used in this study) \
 	Distance: Distance from urban centre for each population in km
